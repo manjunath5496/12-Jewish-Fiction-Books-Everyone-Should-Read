@@ -1,27 +1,24 @@
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(1).pdf" style="text-decoration:none;">The Trial of Henry Kissinger</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(1).pdf" style="text-decoration:none;">The Amazing Adventures of Kavalier and Clay </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(2).pdf" style="text-decoration:none;">For the Sake of Argument: Essays and Minority Reports</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(2).pdf" style="text-decoration:none;">The Chosen: A Novel </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(3).pdf" style="text-decoration:none;">Hitch 22: A Memoir  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(3).pdf" style="text-decoration:none;">American Pastoral</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(4).pdf" style="text-decoration:none;">Arguably: Essays</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(4).pdf" style="text-decoration:none;">Everything is Illuminated</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(5).pdf" style="text-decoration:none;">Blood, Class and Empire: The Enduring Anglo-American Relationship</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(5).pdf" style="text-decoration:none;">People of the Book: A Novel</a></b></li>   
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(6).pdf" style="text-decoration:none;">Civilization and Its Discontents </a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(7).pdf" style="text-decoration:none;">Why Orwell Matters</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(6).pdf" style="text-decoration:none;">The Metamorphosis and Other Stories </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(7).pdf" style="text-decoration:none;">The Yiddish Policemen's Union: A Novel</a></b></li>  
                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(8).pdf" style="text-decoration:none;">God Is Not Great</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(9).pdf" style="text-decoration:none;">  Is Christianity Good for the World?  </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(10).pdf" style="text-decoration:none;">Letters to a Young Contrarian </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(8).pdf" style="text-decoration:none;">Mischling</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(9).pdf" style="text-decoration:none;">  Orphan Number Eight: A Novel  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(10).pdf" style="text-decoration:none;">The Red Tent </a></b></li>
                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(11).pdf" style="text-decoration:none;"> Long Live Hitch: God is Not Great/Hitch-22/Arguably  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(12).pdf" style="text-decoration:none;">  The Missionary Position: Mother Teresa in Theory and Practice  </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(13).pdf" style="text-decoration:none;">Mortality </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(14).pdf" style="text-decoration:none;"> Prepared for the Worst: Selected Essays and Minority Reports  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(15).pdf" style="text-decoration:none;">  The Portable Atheist: Essential Readings for the Non-Believer  </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Christopher-Hitchens-Books/blob/master/ens(16).pdf" style="text-decoration:none;">The Parthenon Marbles</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(11).pdf" style="text-decoration:none;"> The Golem and the Jinni: A Novel   </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/jwf(12).pdf" style="text-decoration:none;">  Are You There God? It's Me, Margaret </a></b></li>
+
                                 
  
 </ul>
